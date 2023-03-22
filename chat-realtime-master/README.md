@@ -75,4 +75,4 @@
   * Click vào biểu tượng `ghim` cạnh mỗi tin nhắn
   * Click vào tin nhắn đã ghim thì sẽ thấy cửa sổ tin nhắn tự cuộn về vị trí tin nhắn đã được ghim
    
-###### Nếu có thắc mắc về sourcecode và cách sử dụng có thể mail về: `taduyhieucntt98@gmail.com`
+###### Nếu có thắc mắc về sourcecode và cách sử dụng có thể mail về: `khaichu0@gmail.com`
